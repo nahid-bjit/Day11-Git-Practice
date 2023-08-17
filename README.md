@@ -1,4 +1,4 @@
-# Usage
+## Usage
 
 - **Search for Restaurants:** Utilize the search functionality to discover dining options based on your preferences.
 
